@@ -1,0 +1,19 @@
+{
+  "name": "dex-template-metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demilp/dex-template-metadata.git"
+  },
+  "author": "Demián Levy Polat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demilp/dex-template-metadata/issues"
+  },
+  "homepage": "https://github.com/demilp/dex-template-metadata#readme"
+}
